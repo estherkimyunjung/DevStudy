@@ -1,7 +1,7 @@
 # Devstudy
-## Reference Site information
-# Navigation
 
+## Reference Site information
+### Navigation
 - [List of Slack Channels for local communities by region](#list-of-slack-channels-for-local-communities-by-region)
   * [🇺🇸 USA:](#-usa)
     + [New England](#new-england)
@@ -53,18 +53,18 @@
   * [Blogging](#blogging)
   * [Resources](#resources)
 
-# List of Slack Channels for local communities by region
+### List of Slack Channels for local communities by region
 
-## 🇺🇸 USA:
+### 🇺🇸 USA:
 
-### New England
+#### New England
 
 Where the morning can start with 80°F, rain 10" at noon, and everybody drinks Dunkin’. The home for Harvard, MIT, Yale, Brown, and the W3C has a blossoming tech comunity:
 
 * [Boston Javascript](https://bostonjavascript.slack.com/) - Invites at https://bostonjs.herokuapp.com/ (co hosted by http://bostonjs.com/)
 * CT - [New Haven.io](https://newhaven.io)
 
-### Mid-Atlantic
+#### Mid-Atlantic
 
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
@@ -77,7 +77,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
     * Pittsburgh: [Code & Supply](https://codeandsupply.co/chat)
     * Lancaster: [Lancaster Technologists](amishtech.slack.com)
 
-### The Midwest
+#### The Midwest
 
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
@@ -116,7 +116,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *   [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
 *   Midwest - [The Midwest Dev Chat](http://midwestdevchat.com/)
 
-### The Southeast
+#### The Southeast
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
@@ -163,7 +163,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Cville](https://cville.slack.com) - Charlottesville
     *   [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
 
-### The Southwest
+#### The Southwest
 
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
@@ -176,7 +176,7 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
     * [Open Austin](https://slack.open-austin.org/) - citizen brigade advocating for open government, open data
     * [San Antonio Devs](https://sanantoniodevs.com)
 
-### The West
+#### The West
 
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
@@ -213,20 +213,20 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *	[Seattle Code Crafters](https://seattlecodecrafters.slack.com)
 
 
-# Other Countries
+### Other Countries
 
-### 🇦🇷 Argentina
+#### 🇦🇷 Argentina
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
 *   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
 *   Chaco [Pro-Gramadores](https://pro-gramadores.org/)
 
-### 🇦🇺 Australia
+#### 🇦🇺 Australia
 
 *	[DEVANZ](https://devanz.slack.com) - Australia and New Zealand Slack for developers
 *	Brisbane - [Brisbane Developers](https://brisbane-developers.slack.com)
 
-### 🇧🇷 Brazil
+#### 🇧🇷 Brazil
 
 *   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian Slack for the iOS community
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android community
@@ -238,11 +238,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
 *   [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) - Brazilian Slack for the React community
 
-### 🇨🇮 Cote d'Ivoire (Ivory Coast)
+#### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
 *   [Code d'Ivoire](http://slack.codedivoire.com/) -  Slack community for developers in the Ivory Coast
 
-### 🇨🇦 Canada
+#### 🇨🇦 Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 *   ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
@@ -253,7 +253,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
 *   QC - [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
 
-### 🇨🇱 Chile
+#### 🇨🇱 Chile
 
 
 *   [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
@@ -261,13 +261,13 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Noders](https://noders.com/) in Santiago
 *   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
 
-### 🇫🇮 Finland
+#### 🇫🇮 Finland
 
 *   [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
 *   [Koodiklinikka](https://koodiklinikka.fi/) a finnish developer slack community that has over 1024 registered members
 *   [Turku ❤️ Frontend](https://turkufrontend.fi) a Finnish, English-speaking, Turku-based frontend developer community. Invites via [this link](https://turkulovesfrontend.herokuapp.com/).
 
-### 🇫🇷 France
+#### 🇫🇷 France
 
 * France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FranceJS meetups communities
 * France - [Android Dev Fr](https://android-dev-france.slack.com/) active slack group for android french community
@@ -285,16 +285,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Nantes - [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc)
 *   Nantes - [ProductPeopleNantes](https://productpeoplenantes.slack.com)
 
-### 🇩🇪 Germany
+#### 🇩🇪 Germany
 
 * [Angular.DE](https://workshops-de.slack.com) - [Join](https://workshops-de.slack.com/join/shared_invite/enQtMzIyMjk5MzE3MTA5LWMxMzViMzFjNmIzY2U4NDU5YjY1NzY0YmU3ZDZkMDY2YTc2OGJlMTc1MzUwYTMwYzkxMTZiMWFjNWZlYzVjMWU)
 * [ReactJS.DE](https://reactjs.de) - [ReactJS.DE Slack](https://reactjs-de.slack.com/) - [Join](https://join.slack.com/t/reactjs-de/shared_invite/enQtNDAwNjEzNTc2MTE0LTdiZGFjZmNmYWE0ZWZmMmUzOGI3YTA1ZDg2NTk1N2UwZmE3YjJkNDgxNjk4Mzg1Zjg3YzNhZjNhYTgxMGE2OTQ) Germany's ReactJS community with several channels for different React topics.
 
-### 🇬🇭 Ghana
+#### 🇬🇭 Ghana
 
 * Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts. [Join](http://slack.devcongress.org/) DevCongress on Slack.
 
-### 🇮🇳 India
+#### 🇮🇳 India
 
 *   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
 *   [GDG Pune](http://gdg-pune.slack.com/) - Local Meetup group of Pune who host the technical and non-technical events.
@@ -311,19 +311,19 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [GDG Coimbatore](http://connect.gdgcbe.com/) - GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
 *   [SwiftIndia](https://swiftindia.in/community/) - The Swift India Developer Community provides a platform for developers to come together to share their knowledge about Apple technologies, and industry best design & coding standards. Currently, the community has active meet-ups all around India and a dedicated Slack group.
 
-### 🇮🇩 Indonesia
+#### 🇮🇩 Indonesia
 
 * [Perkodi - Perkumpulan Pengrajin Kode Indonesia (Code Craftsmen of Indonesia)](https://perkodi.org/) & also the [Ruby Indonesia](https://ruby.id/). Both are in the same [Slack here](http://ruby.id/slack)
 
-### 🇮🇪 Ireland
+#### 🇮🇪 Ireland
 
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
-### 🇮🇱 Israel
+#### 🇮🇱 Israel
 
 * [Israel Tech Slack channel](http://israeltech.slack.com)
 
-### 🇮🇹 Italy
+#### 🇮🇹 Italy
 
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
@@ -340,20 +340,20 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
 * [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
-### 🇲🇾 Malaysia
+#### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
-### 🇯🇵 Japan
+#### 🇯🇵 Japan
 * [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
 * [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
 * [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) - Tokyo Dev Round table is a community of Ruby on raills and React.js enthusiasts in Tokyo, Japan.
 
 
-### 🇳🇿 New Zealand
+#### 🇳🇿 New Zealand
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
 * [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
 
-### 🇳🇬 Nigeria
+#### 🇳🇬 Nigeria
 *   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
 *   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
 *   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
@@ -365,51 +365,51 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's largest Scala Community
 *   [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
-### 🇵🇭 Philippines
+#### 🇵🇭 Philippines
 
 *   [Phackers](http://www.phackers.com/) - Philippine Tech Hackers
 
-### 🇵🇱 Poland
+#### 🇵🇱 Poland
 
 *   Java/JVM - [JVM Poland](https://jvm-poland.slack.com)
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
 
-### 🇷🇴 Romania
+#### 🇷🇴 Romania
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
 *   JSHeroes - [jsheroes slack](https://jsheroes-community.slack.com)
 
-### 🇷🇸 Serbia
+#### 🇷🇸 Serbia
 
 *   JS Belgrade - [JavaScript User Group from Belgrade, Serbia](http://slack.jsbelgrade.org/)
 
-### 🇬🇧 UK
+#### 🇬🇧 UK
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 *   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
 *   Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
 *   Leeds - [LeedsDevs](https://www.leedsdevs.co.uk) - all devs and tech professionals in the Leeds/Yorkshire area are welcome
 
-### 🇺🇦 Ukraine
+#### 🇺🇦 Ukraine
 
 *   UkrOps - [UkrOps](http://slack.ukrops.club/)
 
-### 🇻🇳 Vietnam
+#### 🇻🇳 Vietnam
 
 * [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps...
 
-# Conferences (public slack communities)
+### Conferences (public slack communities)
 
 *   [Mobile Era](http://mobileera.herokuapp.com/), Norway - discussions about mobile native, mobile web, PWA development
 *   [ngVikings](http://ngvikings.herokuapp.com/), Nordics - discussions about Angular and its ecosystem
 
-# Bonus channels
+### Bonus channels
 
-## General Tech Slack Communities
+### General Tech Slack Communities
 
 Below are some other interesting Slack channels for different technologies and programming languages that welcome anybody worldwide:
 
-## Frameworks
+#### Frameworks
 
 *   [Angular Beers](https://slackin.angularbeers.org/)
 *   [Angular Chat](https://angularchat.co/)
@@ -430,7 +430,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 *   [AMP-Accelerated Mobile Pages](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) - More Details at https://www.ampproject.org/
 
-## Languages
+#### Languages
 
 *   [BeerJS](https://beerjs-slack-invite.herokuapp.com/)
 *   [clojurians](http://clojurians.net/)
@@ -449,19 +449,19 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Nim Lang (International / English)](https://gitter.im/nim-lang/Nim)
 *   [Nim Lang (Argentina / Spanish)](https://t.me/NimArgentina)
 
-## Design
+#### Design
 
 *   [Design Talks](https://designtalks.slack.com/)
 *   [Designer Hangout](https://www.designerhangout.co/)
 *   [Framer](https://framer-slack-signup.herokuapp.com/)
 *   [UX Mastery](http://slack.uxmastery.com/)
 
-## Security
+#### Security
 
 *   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com)
 *   [The Secure Developer](http://bit.ly/tsdslack) - our mission is to educate and enable software engineers to integrate security into their development practices.
 
-## Technologies
+#### Technologies
 
 *   [Chromium Dev](https://chromiumdev-slack.herokuapp.com/)
 *   [dbt](https://www.getdbt.com/)
@@ -476,7 +476,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Firebase](https://firebase.community/)
 *   [HoloLens](https://holodevelopersslack.azurewebsites.net/)
 
-## General Dev
+#### General Dev
 
 *   [CodeBuddies](https://codebuddiesmeet.herokuapp.com)
 *   [CodeNewbie](http://bit.ly/CodeNewbieSlack)
@@ -494,31 +494,31 @@ Below are some other interesting Slack channels for different technologies and p
 *   [TechMasters](https://techmasters.chat/)
 *   [CodeBuddies](https://codebuddies.org/slack)
 
-## General Testing & QA
+#### General Testing & QA
 
 *   [A/B Testing - modern testing, data science, agile development](https://oneofthethree.slack.com/) & (http://moderntesting.org)
 *   [Ministry of Testing](https://www.ministryoftesting.com/slack_invite)
 *   [Testersio](https://testersio.slack.com)
 
-## Intro to Dev & Learning
+#### Intro to Dev & Learning
 
 *   [JuniorDevs](https://www.jrdevjobs.com/slack)
 *   [Learn Coding](https://learncoding.slack.com/messages/C04G48BKC/)
 *   [The Meteor Chef](http://slack.themeteorchef.com/)
 
-## Women
+#### Women
 
 *   [Women in Tech (WITchat)](http://witchat.github.io/)
 *   [Ladies of WordPress](https://ladiesofwp.slack.com)
 *   [VueVixens](https://vuevixens.slack.com)
 
-## Misc Interest
+#### Misc Interest
 
 *   [a11y](https://web-a11y.herokuapp.com/)
 *   [DevOpsChat](https://devopschat.co/)
 *   [JS-Data](http://slack.js-data.io/)
 
-## Community Groups
+#### Community Groups
 
 *   [FEDs on Slack](http://fedsonslack.com/)
 *   [Slash Rocket](https://join.slashrocket.io/)
@@ -534,10 +534,10 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Android developer Community Channel](https://android-united.slack.com)
 *   [Community Chat](https://comm.chat)
 
-## Blogging
+#### Blogging
 *   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
 
-## Resources
+#### Resources
 
 *   [Scotch.io](https://scotch-slack.herokuapp.com/)
 *   [Spec](https://spec.fm/slack)
