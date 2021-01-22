@@ -3,11 +3,13 @@
 //   // console.log('target :', target);
 //   if(nums.length >=2){
 //     for (let i = 0 ; i <= nums.length; i++){
+
 //       // const first = nums[i]
 //       // const second = nums[i+1]
-//       // if (first + second === target){
+//       // if (first + second === target && i !== j){
 //       // console.log(`[${i},${i+1}]`);
-//       // } 
+//       // }
+
 //       for(let j = i+1; j <= nums.length; j++){
 //         const first = nums[i]
 //         const second = nums[j]
