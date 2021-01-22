@@ -29,6 +29,7 @@ const twoSum = (nums, target) => {
   const result = {};
   for (let i = 0; i < nums.length; i++) {
     if (target - nums[i] in result) {
+      console.log(`[${result[target - nums[i]]}, ${i}]`)
       return [result[target - nums[i]], i];
     } else {
       result[nums[i]] = i;
