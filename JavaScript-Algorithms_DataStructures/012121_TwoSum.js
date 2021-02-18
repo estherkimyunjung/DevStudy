@@ -16,7 +16,7 @@
 //         if(first + second === target){
 //           return console.log(`[${i},${j}]`)
 //           // return [i,j]
-//         } 
+//         }
 //       }
 //     }
 //   } else {
@@ -31,12 +31,12 @@ const twoSum = (nums, target) => {
   const result = {};
   for (let i = 0; i < nums.length; i++) {
     if (target - nums[i] in result) {
-      console.log(`[${result[target - nums[i]]}, ${i}]`)
+      console.log(`[${result[target - nums[i]]}, ${i}]`);
       return [result[target - nums[i]], i];
     } else {
       result[nums[i]] = i;
     }
   }
-}
+};
 
-twoSum([2,5,5,11], 10)
+twoSum([2, 5, 5, 11], 10);
