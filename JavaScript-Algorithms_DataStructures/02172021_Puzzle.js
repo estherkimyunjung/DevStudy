@@ -1,6 +1,6 @@
 // count the number of words from wordlist are in each keypad.
 // First letter of the keypad is the first key
-// first key will need to always be in word from wordList to count
+// first key will need to always be in word from wordlist to count
 
 let Trie = function () {
   this.children = {};
@@ -33,7 +33,7 @@ Trie.prototype.search = function (word, keypad) {
   return true;
 };
 
-let findEscapeRoomCode = function (wordList, keypads) {
+let findEscapeRoomCode = function (wordlist, keypads) {
   let output = [];
 
   keypads.forEach((keypad, index) => {
@@ -41,7 +41,7 @@ let findEscapeRoomCode = function (wordList, keypads) {
     let keys = new Trie();
     keys.insert(keypad);
 
-    wordList.forEach((word) => {
+    wordlist.forEach((word) => {
       keys.search(word, keypad) ? output[index]++ : output[index];
     });
   });
@@ -49,7 +49,7 @@ let findEscapeRoomCode = function (wordList, keypads) {
   return output;
 };
 
-let wordList = ["APPLE", "PLEAS", "PLEASE"];
+let wordlist = ["APPLE", "PLEAS", "PLEASE"];
 let keypads = ["ALTPXYZ", "AELPXYZ", "ALEPXSZ", "SALEPXZ", "PBRUOSS"];
 
 let keypads2 = [];
@@ -61,4 +61,4 @@ while (keypads2.length < 1000) {
 // object (keys were the first character, the required character) and the value was the filtered word bank
 // {a : [Apple, zebra, ...etc]}
 
-console.log(findEscapeRoomCode(wordList, keypads2));
+console.log(findEscapeRoomCode(wordlist, keypads2));

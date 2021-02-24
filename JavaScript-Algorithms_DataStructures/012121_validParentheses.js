@@ -1,5 +1,4 @@
-
-var isValid = function(s) {
+var isValid = function (s) {
   // const newArray = s.split('')
 
   // console.log('s:',s)
@@ -21,23 +20,22 @@ var isValid = function(s) {
     "(": ")",
     "{": "}",
     "[": "]",
-  }
+  };
 
   const stack = [];
 
   for (const paran of s) {
     if (obj.hasOwnProperty(paran)) {
-      stack.push(paran)
+      stack.push(paran);
     } else {
       const closeParan = stack.pop();
       if (paran !== obj[closeParan]) {
-        return false;
+        return console.log(false);
       }
     }
   }
 
-  return stack.length === 0;
-
+  return console.log(stack.length === 0);
 };
 
-isValid("{(}")
+isValid("{(-)}");
