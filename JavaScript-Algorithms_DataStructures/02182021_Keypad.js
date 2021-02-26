@@ -11,13 +11,14 @@
 // 0 : "key" letter is not include in words
 
 // const numKeypadSolutions = (wordlist, keypads) => {
-//   let results = [];
+//   let results = [];                                              //const ansArr = new Array(keypads, length).fill(0)
 //   for (let i = 0; i < keypads.length; i++) {
 //     let keySet = new Set();
 //     for (let j = 0; j < keypads[i].length; j++) {
 //       let char = keypads[i][j];
 //       keySet.add(char);
-//     }
+//     }                                                            //for (let i = 0; i < keypads.length; i++) {
+//const keypadLetters = keypads[i].split('')
 
 //     let key = keypads[i][0];
 //     let keypadCode = 0;
