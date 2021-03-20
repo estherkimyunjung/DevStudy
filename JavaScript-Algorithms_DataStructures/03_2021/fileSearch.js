@@ -1,10 +1,13 @@
-// wirte a function that check duplcates content files and return the file names in a group of content. (findDuplicate)
-// given a string with filepath (directory or file name)
+// write a function that checks all content is duplicate and returns duplicate content file paths in a group of content.
 
-// find fullFilePaths, directory startpoint - root
-// create hashMap
-// read a content of file then check is duplicate?
-// Key - content, value - file path
+//given Arguments are string with file path(directory, filename)
+
+// Is the file name without content? - no worry about the case
+// Is the file always existing in a directory?
+// When return the file path is it matter about the order of file?
+// Is the file path is unique?
+
+// create data set with file name and content
 
 const getFileContent = {
   "2.txt": "abc",
@@ -13,20 +16,35 @@ const getFileContent = {
   "4.txt": "ab",
 };
 
+// output: [
+//   [ 'root/a/2.txt', 'root/a2/b1/2.txt', 'root/a/b2/2.txt' ],
+//   [ 'root/a/3.txt', 'root/a1/b2/3.txt' ],
+//   [ 'root/a1/b2/1.txt', 'root/a/b3/1.txt', 'root/a/b/c/4.txt' ]
+// ];
+
 // input: [
 //   ["/a", "2.txt", "3.txt"],
-//   ["/a", "/b1", "2.txt"],
+//   ["/a2", "/b1", "2.txt"],
 //   ["/a", "/b2", "2.txt"],
 //   ["/a1", "/b2", "3.txt", "1.txt"],
-//   ["/a", "/a1", "1.txt"],
+//   ["/a", "/b3", "1.txt"],
 //   ["/a", "/b", "/c", "4.txt"],
 // ];
 
 // output: [
-//   [ 'root/a/2.txt', 'root/a/b1/2.txt', 'root/a/b2/2.txt' ],
+//   [ 'root/a/2.txt', 'root/a2/b1/2.txt', 'root/a/b2/2.txt' ],
 //   [ 'root/a/3.txt', 'root/a1/b2/3.txt' ],
-//   [ 'root/a1/b2/1.txt', 'root/a/a1/1.txt', 'root/a/b/c/4.txt' ]
+//   [ 'root/a1/b2/1.txt', 'root/a/b3/1.txt', 'root/a/b/c/4.txt' ]
 // ];
+
+//create function findDuplicateFiles
+//use hasMap,  array results
+
+// parse the paths
+
+// extract file name, contents, => full path
+
+// create results array
 
 const findDuplicateFiles = (paths) => {
   // let fullPaths = [];
@@ -87,9 +105,9 @@ const findDuplicateFiles = (paths) => {
 
 findDuplicateFiles([
   ["/a", "2.txt", "3.txt"],
-  ["/a", "/b1", "2.txt"],
+  ["/a2", "/b1", "2.txt"],
   ["/a", "/b2", "2.txt"],
   ["/a1", "/b2", "3.txt", "1.txt"],
-  ["/a", "/a1", "1.txt"],
+  ["/a", "/b3", "1.txt"],
   ["/a", "/b", "/c", "4.txt"],
 ]);
