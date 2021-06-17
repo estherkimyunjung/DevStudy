@@ -2,9 +2,9 @@ function mergeArrays(myArray, alicesArray) {
   // Combine the sorted arrays into one large sorted array
   let merge_lists = [];
 
-  if (myArray.length === 0 && alicesArray.length === 0) return [];
-  if (myArray.length === 0) return alicesArray;
-  if (alicesArray.length === 0) return myArray;
+  if (!myArray && !alicesArray) return [];
+  if (!myArray) return alicesArray;
+  if (!alicesArray) return myArray;
 
   let baseArray =
     myArray.length === alicesArray.length || myArray.length > alicesArray.length
@@ -27,12 +27,12 @@ function mergeArrays(myArray, alicesArray) {
       i++;
     }
   }
-  if (myArray.length === alicesArray.length && compareArray[i])
-    merge_lists.push(compareArray[i]);
+  if (compareArray[i]) merge_lists.push(compareArray[i]);
 
   return merge_lists;
 }
 
+//Test
 let desc = "both arrays are empty";
 let actual = mergeArrays([], []);
 let expected = [];
