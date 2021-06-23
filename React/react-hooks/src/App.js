@@ -5,8 +5,13 @@ function expensiveInitialState() {
 }
 
 const App = () => {
-  const arr = useState(() => expensiveInitialState());
-  return <div>Start</div>;
+  const [count, setCount] = useState(() => expensiveInitialState());
+  return (
+    <div>
+      <button onClick={() => setCount(count + 1)}> + </button>
+      <div>{count}</div>
+    </div>
+  );
 };
 
 export default App;
