@@ -6,8 +6,6 @@ class LinkedListNode {
 }
 
 function kthToLastNode(k, head) {
-  if (k === 0) return head;
-
   // STEP 1: get the length of the list
   // Start at 1, not 0
   // else we'd fail to count the head node!
@@ -27,6 +25,7 @@ function kthToLastNode(k, head) {
   const howFarToGo = listLength - k;
 
   currentNode = head;
+
   for (let i = 0; i < howFarToGo; i++) {
     currentNode = currentNode.next;
   }
