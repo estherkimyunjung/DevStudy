@@ -17,7 +17,6 @@ const App = () => {
   return (
     <div>
       {/* using object for useState
-
       <button
         // onClick={() => setCount((currentCount) => currentCount + 1)}
         onClick={() =>
@@ -34,7 +33,6 @@ const App = () => {
       <div>count 2: {count2}</div> */}
 
       {/* use separate useState for each state
-      
       <input
         type="text"
         name="email"
@@ -51,7 +49,6 @@ const App = () => {
       /> */}
 
       {/* create fuction for useState */}
-
       <input
         type="text"
         name="email"
