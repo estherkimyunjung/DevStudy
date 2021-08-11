@@ -14,13 +14,23 @@ class BinarySearchTree {
     const newNode = new Node(val);
     if (this.root === null) {
       this.root = newNode;
-      return;
+      return this.root;
     }
 
     let curNode = this.root;
     while (true) {
       if (val < curNode.val) {
+        if (curNode.left === null) {
+          curNode.left = newNode;
+          return this.root;
+        }
+        curNode = curNode.left;
       } else {
+        if (curNode.right === null) {
+          curNode.right = newNode;
+          return this.root;
+        }
+        curNode = curNode.right;
       }
     }
   }
