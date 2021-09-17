@@ -1,16 +1,11 @@
-function mykeydown(event) {
-  let message = document.getElementById("keyDownTest");
-  message.innerText = `${event.key} Keycode is ${event.keyCode}`;
-}
-
-const div = document.getElementById("keyTestDiv");
-
-div.addEventListener("keypress", function (event) {
-  let message = document.getElementById("keyTestDiv");
-  message.innerText = `${event.key} Pressing`;
-});
-
-div.addEventListener("keyup", function (event) {
-  let message = document.getElementById("keyTestDiv");
-  message.innerText = "Press me and test keyboard";
+const headings = document.querySelectorAll("h1,h2,h3,h4,h5,h6");
+// iterate through each heading
+Array.prototype.forEach.call(headings, function (node) {
+  // remove all white space
+  let headerContent = node.innerText.replace(/\s/g, "");
+  // see if header content is not existing
+  if (headerContent.length === 0) {
+    // mark node as presentation
+    node.setAttribute("role", "presentation");
+  }
 });

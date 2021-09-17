@@ -1,7 +1,20 @@
-#keyTestDiv {
+div#keyTestDiv {
   padding: 20px;
   background-color: blue;
   color: skyblue;
   text-align: center;
   font-size: 20px;
+  outline: none;
+}
+
+#keyTestDiv:hover {
+  background-color: skyblue;
+  color: blue;
+  border: none;
+}
+
+#keyDownTest {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
 }

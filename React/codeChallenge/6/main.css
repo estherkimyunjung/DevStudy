@@ -1,7 +1,10 @@
-.container {
-  display: flex;
+div > span {
+  color: red;
 }
-.header-btn {
-  background-color: chocolate;
-  text-align: center;
+
+.container {
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  cursor: pointer;
 }

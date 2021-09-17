@@ -1,0 +1,21 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+#countdown-btn {
+  margin: 120px;
+  width: 200px;
+  height: 70px;
+  border-radius: 30px;
+  color: yellow;
+  background-color: rgb(79, 143, 19);
+  font-size: 20px;
+  font-weight: bolder;
+  box-shadow: 15px 20px 23px #555;
+}
+
+#countdown-btn:hover {
+  box-shadow: 0px 0px 23px #555;
+  color: #000;
+  background-color: rgb(110, 192, 72);
+}
